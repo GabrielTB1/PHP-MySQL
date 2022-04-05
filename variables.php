@@ -1,3 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+
 <?php
 $var1 = "Hello world!";
 $x = 15;
@@ -23,3 +27,6 @@ $y = 6;
 echo $x + $y;
 
 ?>
+
+</body>
+</html>
