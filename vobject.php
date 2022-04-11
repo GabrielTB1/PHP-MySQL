@@ -28,12 +28,12 @@
           
         // Creating a new person named "John Smith", who is 25 years old
         $person1 = new Person('John', 'Smith', 25);
-		$person2 = new Person('Joe', 'Bob', 35);
+		    $person2 = new Person('Joe', 'Bob', 35);
         
         // Print out what the hello method returns
         echo $person1->hello(); 
-		echo "<br>";
-		echo $person2->hello(); 
+		    echo "<br>";
+		    echo $person2->hello(); 
         ?>
         </p>
     </body>
