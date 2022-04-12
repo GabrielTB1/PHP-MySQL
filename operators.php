@@ -16,15 +16,15 @@
 	
 	//SUBTRACTION
 	echo $x - $y;	
-	echo "<hr />";	
+	echo "<hr />";
 	
 	//MULTIPLICATION
 	echo $x * $y;	
-	echo "<hr />";	
+	echo "<hr />";
 	
 	//DIVISION
 	echo $x / $y;
-	echo "<hr />";	
+	echo "<hr />";
 	
 	//MODULUS
 	echo $x % $y;
@@ -114,7 +114,7 @@
 	$x = 50; 
 	echo --$x;
 	echo "<hr />";
-	
+	 
 	//Post-decrement - Returns $x, then decrements $x by one
 	$x = 50; 
 	echo $x--;
