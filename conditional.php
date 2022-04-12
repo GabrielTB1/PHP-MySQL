@@ -9,6 +9,8 @@ $x = 49;
 
 if ($x < 50) {
      echo "Condition Met";
+} else {
+     echo "Condition Not Met";
 }
 
 ?>
